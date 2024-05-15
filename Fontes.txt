@@ -1,0 +1,26 @@
+Artigo feito baseado no artigo em português:
+    ENEGEP Congress - 2019
+        3D Printing: An alternative to current limb immobilization techniques
+
+Imagens
+    Capa: https://lexica.art/
+
+
+    Corpo: Imagens autorais
+
+Melhorias de texto e títuilo
+    https://gemini.google.com/app
+
+Prompts
+- Crie 10 headlines para nomes de artigos sobre o assunto Impressão 3D e técnicas de imobilização de membros do corpo
+- Explique o processo de recuperação da estrutura óssea humana danificada
+- Cite exemplos de imobilizadores de membros fraturados em seres humanos
+- Traduza o texto artigo feito em português para o inglês.
+- Reescreva o texto abaixo para que ele fique mais curto porém não omita nenhuma explicação técnica
+
+comporte-se como um escritor de artigos especialista em criação e otimização de processos e me ajude a reescrever os textos inseridos atendendo às regras abaixo
+
+{Regras}
+- Mantenha um vocabulário que possa ser entendido por pessoas que não são especialistas em medicina
+
+
